@@ -1,0 +1,27 @@
+270   blue     b
+280   red      r
+290   greeen   g
+300   cyan     c
+310   magenta  m
+320   yellow   y
+330   orange 
+340   violet 
+350   brown 
+360   pink
+370   gray
+380   olive
+390   navy
+400   tan     
+
+
+
+
+
+
+
+
+
+
+
+
+
